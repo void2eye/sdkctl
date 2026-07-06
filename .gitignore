@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+dist/
+.tools/
+.secrets/
+DEPLOYMENT.private.md
+*.log
