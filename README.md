@@ -55,3 +55,7 @@ cd D:\SDK\sdkctl
 eval "$(sdkctl shell-init bash)"
 sdk use go 1.26
 ```
+
+## 友链
+
+https://linux.do/
